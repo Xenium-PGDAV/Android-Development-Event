@@ -33,3 +33,7 @@ You are expected to show your creativity to achieve the features and functionali
             - Release Date
             - Summary
             - Ratings
+
+
+Submit the code? 
+>Make a zip/rar/tar file of your project and email it to : `yousufprv@gmail.com`
