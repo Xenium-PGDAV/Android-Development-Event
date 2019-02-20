@@ -22,11 +22,16 @@ You are expected to show your creativity to achieve the features and functionali
 	 
 	 
 * **3rd Activity** contains two Fragments.
-    - **1st Fragment** (Movies List Fragment) - 
+
+**API Link (Movies)** - http://api.themoviedb.org/3/movie/upcoming?api_key=b7cd3340a794e5a2f35e3abb820b497f
+
+**Image Base URL**    - http://image.tmdb.org/t/p/w185/
+
+   - **1st Fragment** (Movies List Fragment) - 
         - Shows the list of movies fetched from the internet along with their images in the card view.
         - On click of each movie, `Detail Fragment` (Fragment 2) will open.
 	
-    - **2nd Fragment** (Detailed Fragment)
+   - **2nd Fragment** (Detailed Fragment)
         - Shows the following details of the movie that is clicked:
             - Name (Title of the movie)
             - Genre
