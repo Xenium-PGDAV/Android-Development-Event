@@ -41,4 +41,4 @@ You are expected to show your creativity to achieve the features and functionali
 
 
 Submit the code? 
->Make a zip/rar/tar file of your project and email it to : `yousufprv@gmail.com`
+>Make a zip/rar/tar file of your project and email it to : `parikalan.pgdav@gmail.com`
